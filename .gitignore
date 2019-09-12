@@ -1,0 +1,6 @@
+/app/static/uploads/*
+/venv
+**/__pycache__
+app.db
+.vscode
+/config.py
